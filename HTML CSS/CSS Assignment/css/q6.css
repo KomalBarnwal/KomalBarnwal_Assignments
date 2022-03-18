@@ -1,0 +1,12 @@
+/*question 6*/
+table, th, td{
+    margin: 10px;
+    border: 1px solid #46b846;
+}
+th{
+    background-color: #09ad09;
+    color: white;
+}
+body{
+    border: 1px solid black;
+}

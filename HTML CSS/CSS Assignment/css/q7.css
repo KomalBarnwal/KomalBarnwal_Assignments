@@ -1,0 +1,18 @@
+body{
+    margin: 5px;
+    border: 1px solid black;
+} 
+p{
+    border: dotted rgb(45, 207, 45);
+    border-width: 5px;
+    margin: 1px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 2px; 
+}
+span{
+    border: 2px solid red;
+    margin-top: 5px;
+    margin-bottom: 5px; 
+    
+}
